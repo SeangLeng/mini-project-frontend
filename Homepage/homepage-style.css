@@ -149,15 +149,13 @@ main section h1 {
     padding: 15px;
     color: white;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 600;
     font-size: 25px;
     outline: none;
     border: none;
     width: 170.77px;
     transition: .4s;
     position: relative;
-    
-    font-family: poetsenOne;
 }
 .page1-part1 button:last-child{
     background: #F4EBFF;
@@ -180,8 +178,8 @@ main section h1 {
 }
 .page2 h1 {
     margin: auto;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 100%;
+    font-weight: 600;
 }
 
 .page2 p {
